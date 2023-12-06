@@ -1,5 +1,5 @@
 class Main{
     public static void main(String[] args) {
-        System.out.print("Это добавлено в ветке main -2 коммит");
+        System.out.print("Это добавлено в ветке main -3 коммит");
     }
 }
